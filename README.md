@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akatzz12&label=Profile%20views&color=0e75b6&style=flat" alt="akatzz12" /> </p>
 
-- 🔭 I’m currently working on **Doctoral Graduate Research Assistant at North Dakota State University**
+- 🔭 I’m currently working as **Doctoral Graduate Research Assistant at North Dakota State University**
 
 - 🌱 I’m currently learning **LLM, Generative AI**
 
