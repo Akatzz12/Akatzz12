@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akatzz12&label=Profile%20views&color=0e75b6&style=flat" alt="akatzz12" /> </p>
 
-- 🔭 I’m currently working on **Hastens Beds**
+- 🔭 I’m currently working on **Doctoral Graduate Research Assistant at North Dakota State University**
 
-- 🌱 I’m currently learning **MERN Stack, Android Development**
+- 🌱 I’m currently learning **LLM, Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://kapilray.netlify.app/](https://kapilray.netlify.app/)
 
-- 💬 Ask me about **MERN Stack, Java, Python, Software Testing**
+- 💬 Ask me about **AI, ML, LLM, Gen AI, MERN Stack, Java, Python, Software Testing**
 
 - 📫 How to reach me **kapileshworray@gmail.com**
 
