@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **LLM, Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://kapilray.netlify.app/](https://kapilray.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kapileshworray.com.np/](https://kapileshworray.com.np/)
 
 - 💬 Ask me about **AI, ML, LLM, Gen AI, MERN Stack, Java, Python, Software Testing**
 
